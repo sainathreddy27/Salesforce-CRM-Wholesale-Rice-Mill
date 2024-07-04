@@ -36,8 +36,3 @@ This project is licensed under the MIT License.
 Contact
 For questions or further information, please contact Your Name.
 
-Notes:
-Replace [Your Name], [your-email@example.com], and other placeholders with your actual details.
-Include additional sections or modify the content as per your project's specific needs and requirements.
-Ensure to update the LICENSE file with the appropriate license details if you choose a different license than MIT.
-This README provides a comprehensive overview of your project, helping collaborators and stakeholders understand its purpose, features, setup instructions, and how they can contribute to its development. Adjust it accordingly based on your project's development stage and specific details.
